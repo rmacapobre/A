@@ -1,0 +1,48 @@
+﻿<Properties StartupItem="A/A.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="firefox" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="A/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="A/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="A/Global.asax.cs" Line="1" Column="1" />
+      <File FileName="A/Models/Users.cs" Line="12" Column="12" />
+      <File FileName="A/Views/Home/Index.cshtml" Line="15" Column="15" />
+      <File FileName="A/Views/Shared/_Layout.cshtml" Line="2" Column="2" />
+      <File FileName="../../../../usr/lib/mono/4.5/Microsoft.Common.targets" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="A" expanded="True">
+            <Node name="References" expanded="True">
+              <Node name="From Packages" expanded="True" />
+            </Node>
+            <Node name="Packages" expanded="True" />
+            <Node name="Content" expanded="True">
+              <Node name="kendo" expanded="True">
+                <Node name="2014.3.1119" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Controllers" expanded="True" />
+            <Node name="Models" expanded="True" />
+            <Node name="Scripts" expanded="True" />
+            <Node name="Views" expanded="True">
+              <Node name="Home" expanded="True" />
+              <Node name="Shared" expanded="True">
+                <Node name="_Layout.cshtml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/rmacapobre/Documents/A/A/Controllers/HomeController.cs" line="58" column="17" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

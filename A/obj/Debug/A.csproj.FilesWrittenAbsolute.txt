@@ -1,0 +1,13 @@
+/home/rmacapobre/Documents/A/A/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/rmacapobre/Documents/A/A/bin/A.dll.mdb
+/home/rmacapobre/Documents/A/A/bin/A.dll
+/home/rmacapobre/Documents/A/A/obj/Debug/A.dll
+/home/rmacapobre/Documents/A/A/obj/Debug/A.dll.mdb
+/home/rmacapobre/Documents/A/A/bin/Microsoft.Web.Infrastructure.dll
+/home/rmacapobre/Documents/A/A/bin/System.Web.Razor.dll
+/home/rmacapobre/Documents/A/A/bin/System.Web.Helpers.dll
+/home/rmacapobre/Documents/A/A/bin/System.Web.WebPages.dll
+/home/rmacapobre/Documents/A/A/bin/System.Web.WebPages.Deployment.dll
+/home/rmacapobre/Documents/A/A/bin/System.Web.WebPages.Razor.dll
+/home/rmacapobre/Documents/A/A/bin/System.Web.Mvc.dll
+/home/rmacapobre/Documents/A/A/bin/MySql.Data.dll

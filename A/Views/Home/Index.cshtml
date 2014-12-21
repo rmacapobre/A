@@ -1,0 +1,27 @@
+﻿@model IEnumerable<A.User>
+
+<h2>Welcome to ASP.NET MVC @ViewData["Version"] on @ViewData["Runtime"]!</h2>
+
+<table id="tableUsers" class="display" width="100%" cellspacing="0">
+<thead>
+    <tr>
+        <th>FirstName</th>
+        <th>LastName</th>
+        <th>Email</th>
+        <th>Contribution</th>
+    </tr>
+</thead>
+
+<tbody>
+	@foreach (var user in Model)
+	{
+		<tr>
+            <td>@user.FirstName</td>
+            <td>@user.LastName</td>
+            <td>@user.Email</td>
+            <td>1000000</td>
+        </tr>		   
+	}
+</tbody>
+</table>
+
